@@ -32,7 +32,7 @@ public class WaterTrapService {
         int maxRight = 0;
         int totalWater = 0;
 
-        // Calculate from both ends until you reach the middle
+        // Calculate from both ends until you reach the middle (cross/intersect)
         while (leftPointer < rightPointer) {
             // Compare the heights at both ends (leftPointer and rightPointer)
             if (barHeights[leftPointer] < barHeights[rightPointer]) {
