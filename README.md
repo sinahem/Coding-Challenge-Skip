@@ -11,7 +11,7 @@ can be trapped.
 ### Example 1
 - Input: `[3, 2, 4, 1, 2]`
 - Output: `2`
-- 
+
 ### Example 2
 - Input: `[4, 1, 1, 0, 2, 3]`
 - Output: `8`
